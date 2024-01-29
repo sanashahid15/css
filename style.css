@@ -1,0 +1,62 @@
+body{
+    background-color: pink;
+}
+.main{
+    background-color:white;
+    height: 1300px;
+    width: 800px;
+    margin-left: 250px;
+    padding: 2px;
+}
+div.link{
+    background-color: black;
+    word-spacing: 250px;
+    margin: 15px;
+    padding: 10px;
+}
+
+.link a{
+  text-decoration: none;
+  text-transform:uppercase;
+  color: beige;
+  font-weight: bold;
+}
+
+.heading h1 {
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    word-spacing: 50px;
+}
+.heading p{
+    
+    text-align: center;
+}
+
+
+
+     
+     #image1{
+        height:500px;
+        width: 800px;
+        
+     }
+     
+    
+    div.gallery{
+      margin: 5px;
+      border: 1px solid black;
+      float: left;
+      width: 180px;
+    }
+
+    
+
+    div.gallery img{
+      width: 180px;
+      height: 200px;
+    }
+
+    div.description{
+      padding:15px;
+      text-align: center;
+    }
